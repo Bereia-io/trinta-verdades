@@ -1,2 +1,2 @@
-# trinta-verdades
-Uma verdade por dia para relembrar das promessas de Deus sobre a sua vida.
+# 30 verdades
+30 dias meditando acerca das verdades de Deus sobre nossas vidas.
